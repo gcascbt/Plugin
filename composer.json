@@ -1,0 +1,17 @@
+{
+    "name": "gcascbt/alcaddd-plugin",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Wahab Ola",
+            "email": "gcascbt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

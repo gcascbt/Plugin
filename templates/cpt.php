@@ -1,0 +1,1 @@
+<h1>Custom Post Type Area</h1>
